@@ -52,7 +52,8 @@
 - Major victories should create new problems instead of permanently removing tension.
 - Important antagonists should not become stupid merely so the protagonist can win.
 
-Narrative Principle — Indirect Character Collision
+## Narrative Principle — Indirect Character Collision
+
 Крупные персонажи не обязаны изначально быть связаны личным конфликтом.
 История должна позволять сильным фигурам существовать независимо друг от друга, преследуя собственные цели.
 Их столкновения должны происходить потому, что действия одного постепенно начинают влиять на интересы другого.
