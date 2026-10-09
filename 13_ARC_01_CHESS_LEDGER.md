@@ -102,11 +102,15 @@ Other Ennarr figures may be named naturally only when required. Do not dump all 
 
 ---
 
-## Hidden Ennarr Communication
+## Hidden Ennarr Communication — Eira's Whisper
 
-One of Ennarr's already-awakened satellite gifts lets members of the same side send short meaning-impulses privately.
+**Eira** is Ennarr's copper-gold moon.
 
-It is a supernatural gift of their world.
+Its awakened gift is called **Eira's Whisper**; the old poetic form is **the Whisper of Silent Eira**. In ordinary Ennarr speech, characters normally call it simply **the Whisper**.
+
+The Whisper lets members of the same side send short meaning-impulses privately to a chosen ally.
+
+It is a supernatural gift of Eira and part of Ennarr's culture.
 
 It is **not**:
 - technology;
